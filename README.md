@@ -7,16 +7,10 @@
 
 ## 🌟 App Launch Previews
 
-<table>
-  <tr>
-    <th align="center">Dark Mode</th>
-    <th align="center">Light Mode</th>
-  </tr>
-  <tr>
-    <td align="center"><img src="media/dark-gif-new.gif" width="280"></td>
-    <td align="center"><img src="media/light-gif-new.gif" width="280"></td>
-  </tr>
-</table>
+<p align="center">
+  <img src="media/dark-gif-new.gif" width="48%" alt="Dark Mode">
+  <img src="media/light-gif-new.gif" width="48%" alt="Light Mode">
+</p>
 
 ## 🌟 Overview
 
