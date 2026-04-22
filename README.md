@@ -1,10 +1,22 @@
 <div align="center">
-  <img src="media/dark-gif.gif" alt="Daily Adventure Preview" width="300" />
   <h1>🗺️ Daily Adventure</h1>
   <p><i>Your daily reason to step outside, explore, and stay active.</i></p>
 </div>
 
 ---
+
+## 🌟 App Launch Previews
+
+<table>
+  <tr>
+    <th align="center">Dark Mode</th>
+    <th align="center">Light Mode</th>
+  </tr>
+  <tr>
+    <td align="center"><img src="media/dark-gif-new.gif" width="280"></td>
+    <td align="center"><img src="media/light-gif-new.gif" width="280"></td>
+  </tr>
+</table>
 
 ## 🌟 Overview
 
