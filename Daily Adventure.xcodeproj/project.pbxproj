@@ -400,6 +400,8 @@
 				DEVELOPMENT_TEAM = 969493845D;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_NSLocationWhenInUseUsageDescription = "Daily Adventure uses your location to generate one nearby walking challenge and unlock check-in when you arrive.";
+				INFOPLIST_KEY_NSPhotoLibraryUsageDescription = "Daily Adventure can attach an optional proof photo to a completed walk.";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
@@ -432,6 +434,8 @@
 				DEVELOPMENT_TEAM = 969493845D;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_NSLocationWhenInUseUsageDescription = "Daily Adventure uses your location to generate one nearby walking challenge and unlock check-in when you arrive.";
+				INFOPLIST_KEY_NSPhotoLibraryUsageDescription = "Daily Adventure can attach an optional proof photo to a completed walk.";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
