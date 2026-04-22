@@ -9,10 +9,10 @@
     </tr>
     <tr>
       <td align="center">
-        <video src="media/daily-dark-gif.mov" width="280" controls="controls" muted="muted"></video>
+        <video src="https://github.com/vishalbhogal/Daily-Adventure/blob/main/media/daily-dark-gif.mov?raw=true" width="280" controls="controls" muted="muted"></video>
       </td>
       <td align="center">
-        <video src="media/daily-light-gif.mov" width="280" controls="controls" muted="muted"></video>
+        <video src="https://github.com/vishalbhogal/Daily-Adventure/blob/main/media/daily-light-gif.mov?raw=true" width="280" controls="controls" muted="muted"></video>
       </td>
     </tr>
   </table>
