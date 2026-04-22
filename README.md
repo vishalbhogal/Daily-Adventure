@@ -9,10 +9,10 @@
     </tr>
     <tr>
       <td align="center">
-        <video src="media/daily-dark-gif.mov" width="280"></video>
+        <video src="https://github.com/vishalbhogal/Daily-Adventure/raw/main/media/daily-dark-gif.mov" width="280" autoplay muted loop playsinline controls></video>
       </td>
       <td align="center">
-        <video src="media/daily-light-gif.mov" width="280"></video>
+        <video src="https://github.com/vishalbhogal/Daily-Adventure/raw/main/media/daily-light-gif.mov" width="280" autoplay muted loop playsinline controls></video>
       </td>
     </tr>
   </table>
