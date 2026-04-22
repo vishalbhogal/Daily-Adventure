@@ -1,65 +1,10 @@
 <div align="center">
+  <img src="media/dark-gif.gif" alt="Daily Adventure Preview" width="300" />
   <h1>🗺️ Daily Adventure</h1>
   <p><i>Your daily reason to step outside, explore, and stay active.</i></p>
 </div>
 
 ---
-
-## 🌟 App Launch Previews
-
-<table>
-  <tr>
-    <th align="center">Dark Mode</th>
-    <th align="center">Light Mode</th>
-  </tr>
-  <tr>
-    <td align="center">
-      <video src="https://github.com/user-attachments/assets/f03a72ae-6367-45c0-a4fd-4de9a846947b" width="280" controls autoplay muted loop playsinline></video>
-    </td>
-    <td align="center">
-      <video src="https://github.com/user-attachments/assets/5758d7c9-2ec4-406b-91ac-a231976c891f" width="280" controls autoplay muted loop playsinline></video>
-    </td>
-  </tr>
-</table>
-
-## 📸 Screenshots
-
-<table>
-  <tr>
-    <th align="center">Dark Mode</th>
-    <th align="center">Light Mode</th>
-  </tr>
-  <tr>
-    <td align="center"><img src="media/dark-home.png" width="250"><br>Home Screen</td>
-    <td align="center"><img src="media/light-home.png" width="250"><br>Home Screen</td>
-  </tr>
-  <tr>
-    <td align="center"><img src="media/dark-home-2.png" width="250"><br>Map Detail</td>
-    <td align="center"><img src="media/light-home-2.png" width="250"><br>Map Detail</td>
-  </tr>
-  <tr>
-    <td align="center"><img src="media/dark-home-3.png" width="250"><br>Active Challenge</td>
-    <td align="center"><img src="media/light-home-4.png" width="250"><br>Active Challenge</td>
-  </tr>
-  <tr>
-    <td align="center"><img src="media/dark-profile.png" width="250"><br>Profile</td>
-    <td align="center"><img src="media/light-profile.png" width="250"><br>Profile</td>
-  </tr>
-  <tr>
-    <td align="center"><img src="media/dark-settings.png" width="250"><br>Settings</td>
-    <td align="center"><img src="media/light-settings.png" width="250"><br>Settings</td>
-  </tr>
-  <tr>
-    <td align="center"><i>N/A</i></td>
-    <td align="center"><img src="media/light-history.png" width="250"><br>History</td>
-  </tr>
-  <tr>
-    <td align="center"><i>N/A</i></td>
-    <td align="center"><img src="media/light-login.png" width="250"><br>Login / Onboarding</td>
-  </tr>
-</table>
-
-
 
 ## 🌟 Overview
 
