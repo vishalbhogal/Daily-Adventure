@@ -8,8 +8,8 @@
 ## 🌟 App Launch Previews
 
 <p align="center">
-  <img src="media/dark-gif-new.gif" width="48%" alt="Dark Mode">
-  <img src="media/light-gif-new.gif" width="48%" alt="Light Mode">
+  <img src="media/dark-cropped.gif" width="48%" alt="Dark Mode">
+  <img src="media/light-cropped.gif" width="48%" alt="Light Mode">
 </p>
 
 ## 🌟 Overview
