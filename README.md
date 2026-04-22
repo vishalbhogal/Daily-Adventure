@@ -1,25 +1,20 @@
 <div align="center">
   <h1>🗺️ Daily Adventure</h1>
   <p><i>Your daily reason to step outside, explore, and stay active.</i></p>
-
-  <table>
-    <tr>
-      <th align="center">Dark Mode</th>
-      <th align="center">Light Mode</th>
-    </tr>
-    <tr>
-      <td align="center">
-        <video src="https://github.com/vishalbhogal/Daily-Adventure/blob/main/media/daily-dark-gif.mov?raw=true" width="280" controls="controls" muted="muted"></video>
-      </td>
-      <td align="center">
-        <video src="https://github.com/vishalbhogal/Daily-Adventure/blob/main/media/daily-light-gif.mov?raw=true" width="280" controls="controls" muted="muted"></video>
-      </td>
-    </tr>
-  </table>
-  <p><i>App Launch Previews (More screenshots coming soon!)</i></p>
 </div>
 
 ---
+
+## 🌟 App Launch Previews
+
+
+https://github.com/user-attachments/assets/f03a72ae-6367-45c0-a4fd-4de9a846947b
+
+
+
+https://github.com/user-attachments/assets/5758d7c9-2ec4-406b-91ac-a231976c891f
+
+
 
 ## 🌟 Overview
 
