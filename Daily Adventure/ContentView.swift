@@ -106,7 +106,7 @@ struct ContentView: View {
     }
 }
 
-private struct DailyAdventureSplashView: View {
+struct DailyAdventureSplashView: View {
     @Environment(\.colorScheme) private var colorScheme
     @State private var pathProgress = 0.0
     @State private var showContent = false
@@ -189,7 +189,7 @@ private struct DailyAdventureSplashView: View {
     }
 }
 
-private struct AuthButton: View {
+struct AuthButton: View {
     @Environment(\.colorScheme) private var colorScheme
     let title: String
     let symbol: String
@@ -246,7 +246,7 @@ private struct AuthButton: View {
     }
 }
 
-private struct ProfileTab: View {
+struct ProfileTab: View {
     @Environment(\.colorScheme) private var colorScheme
     let allChallenges: [DailyChallenge]
     var onSignOut: () -> Void
@@ -681,7 +681,7 @@ private struct SciFiGrid: View {
     }
 }
 
-private struct TodayTab: View {
+struct TodayTab: View {
     @Environment(\.modelContext) private var modelContext
     @Environment(\.colorScheme) private var colorScheme
 
@@ -1116,7 +1116,7 @@ private struct HistoryTab: View {
     }
 }
 
-private struct SettingsTab: View {
+struct SettingsTab: View {
     @Environment(\.colorScheme) private var colorScheme
     @Binding var preferredRadiusMeters: Double
     @Binding var dailyReminderHour: Int
